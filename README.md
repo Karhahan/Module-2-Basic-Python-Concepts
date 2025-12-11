@@ -36,4 +36,13 @@ This task reinforces basic string operations and printing formatted output.
 ---
 
 ## 📂 Repository Structure
+├── task1_basic_math.py
+├── task2_greeting.py
+└── README.md
 
+# 🚀 How to Run
+
+Open your terminal and run:
+
+```bash
+python task1_basic_math.py
